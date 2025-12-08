@@ -1,7 +1,7 @@
 /* Color customization */
 :root {
-  --primary: #f9c412;
-  --primary-dark: #e7bf60;
+  --primary: #6366F1;
+  --primary-dark: #4F46E5;
 }
 
 .test-dead-code-elimination-sentinel {
@@ -227,10 +227,10 @@ html {
 }
 */
 @font-face {
-  font-family: "Inter UI";
+  font-family: "Geist Sans";
   font-weight: 100 900;
-  font-style: oblique 0deg 10deg;
-  src: url("/fonts/Inter-3.19.var.woff2") format("woff2");
+  font-style: normal;
+  src: url("/fonts/Geist[wght].ttf") format("truetype-variations");
 }
 
 /*
@@ -602,7 +602,7 @@ th {
   vertical-align: top;
 }
 thead th {
-  border-bottom: 1px solid #f9c412;
+  border-bottom: 1px solid #4F46E5;;
 }
 table {
   display: table;
@@ -639,7 +639,7 @@ kbd {
   color: #7ec699;
 }
 mark {
-  background: #f9c412;
+  background: #4F46E5;
   padding: 0 0.3em;
 }
 h1,
@@ -656,7 +656,7 @@ h6 {
   font-style: italic;
 }
 a {
-  color: #f9c412;
+  color: #4F46E5;
   text-decoration: none;
 }
 a:hover {
@@ -784,7 +784,7 @@ input[type="submit"][disabled] {
 button:not([disabled]),
 button[type="submit"],
 input[type="submit"] {
-  background: #f9c412;
+  background: #4F46E5;
   color: #181818;
 }
 button:not([disabled]):hover,
@@ -969,10 +969,10 @@ dd {
   margin-left: 2.25em;
 }
 dd + dt {
-  border-top: 1px solid #f9c412;
+  border-top: 1px solid #4F46E5;
 }
 blockquote {
-  border-left: 1px solid #f9c412;
+  border-left: 1px solid #4F46E5;
   padding: 0 1.5em;
   margin: 1.5em 0 1.5em 1.5em;
 }

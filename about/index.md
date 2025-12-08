@@ -7,6 +7,20 @@ eleventyNavigation:
   order: 3
 ---
 
-I am a person that writes stuff.
+Iosu is a Software Developer at [IBM StreamSets](https://www.ibm.com/es-es/products/streamsets). Previously, Iosu worked as a Full Stack Developer at [Sopra Steria](https://www.soprasteria.es/), which was his first job in the industry. 
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Iosu studied [Software Engineering](https://www.ehu.eus/en/web/graduak/bachelor-degree-informatics-engineering) at [University of the Basque Country](https://www.ehu.eus/en/en-home).
+
+**Name**
+  Iosu
+
+**Pronouns**
+  he/him
+
+**Name pronunciation**
+  *yoh-soo*
+
+## Social Networks
+- [Twitter](https://x.com/iosuschz)
+- [Linkedin](https://www.linkedin.com/in/ischz/)
+- [Github](https://github.com/i0su)

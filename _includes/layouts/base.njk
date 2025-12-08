@@ -17,7 +17,7 @@
     {% else %}
     <link rel="icon" href="{{ '/img/favicon/favicon-192x192.png' | addHash }}" type="image/png">
     {% endif %}
-    <meta name="theme-color" content="#f9c412">
+    <meta name="theme-color" content="#4F46E5;">
     <meta name="robots" content="max-snippet:-1, max-image-preview: large, max-video-preview: -1">
     <title>{{ renderData.title or title or metadata.title | escape }}</title>
     <meta property="og:title" content="{{ renderData.title or title or metadata.title | escape  }}">
@@ -95,7 +95,7 @@
     </main>
 
     <footer>
-      <a href="/about/">{{ metadata.author.name }}</a>
+      <span>Made with ❤️ by <a href="https://github.com/i0su" target="_blank">i0su</a></span>
     </footer>
 
     <!-- Current page: {{ page.url | url }} -->
